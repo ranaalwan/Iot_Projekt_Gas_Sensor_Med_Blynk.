@@ -8,8 +8,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Tele2_658e99"; // Change your Wifi/ Hotspot Name
-char pass[] = "fzm5edmj"; // Change your Wifi/ Hotspot Password
+char ssid[] = "wifi name"; // Change your Wifi/ Hotspot Name
+char pass[] = "password"; // Change your Wifi/ Hotspot Password
 
 BlynkTimer timer;
 #define D5 14
