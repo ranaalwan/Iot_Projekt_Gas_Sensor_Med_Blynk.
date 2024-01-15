@@ -89,7 +89,7 @@ Säkerställ konsekvent dataöverföring till Blynk för kontinuerlig övervakni
 Projektet bör effektivt övergå till Blynk, vilket ger realtidsövervakning av luftkvaliteten och snabba varningar via Blynk-appen. Vidare forskning kan fokusera på att korrelera gasnivåer med specifika påverkande faktorer och överväga ytterligare parametrar för en omfattande bedömning av inomhusluftkvaliteten.
 
 
-<img src="bilder/BlynkApp.jpg" width="800" height="600" />
+<img src="bilder/blynkApp.png" width="800" height="600" />
 
 
 ///README har skapats av Rana Alwan///
