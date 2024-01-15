@@ -30,7 +30,7 @@ Genom att integrera en MQ2-gassensor med ESP8266 och dra nytta av Blynk-plattfor
 
 
 ## Översikt  
-Projektet syftar till att utveckla en IoT-baserad lösning för övervakning av luftkvaliteten inomhus med hjälp av en MQ2-gassensor, ESP8266 och Blynk-plattformen. Realtidsdata samlas in och visas i Blynk-appen. Varningar skickas genom Telegram vid onormala gasnivåer.
+Projektet syftar till att utveckla en IoT-baserad lösning för övervakning av luftkvaliteten inomhus med hjälp av en MQ2-gassensor, ESP8266 och Blynk-plattformen. Realtidsdata samlas in och visas i Blynk-appen. Varningar skickas genom Blynk Notifications.
 
 <img src="bilder/diagram.png" width="800" height="600"/>
 
